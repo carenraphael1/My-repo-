@@ -1,2 +1,2 @@
 # My-repo-
-This is my first reporsitory 
+This is my first website
